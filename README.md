@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chaerulq&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/></p>
-<p align="center"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=fanolans&theme=react&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=chaerulq&theme=tokyonight&hide_border=true)"/></p>
-<p align="center"><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=fanolans&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=chaerulq&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fanolans&theme=react&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=chaerulq&theme=tokyonight&hide_border=true"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaerulq&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" /></p>
